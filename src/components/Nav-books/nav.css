@@ -1,0 +1,22 @@
+nav {
+    width: 30%;
+    height: 100vh;
+    overflow: auto;
+    background-color: beige;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+}
+
+nav > a {
+    border-bottom: 2px solid black;
+    width: 100%;
+    display: block;
+    padding: 20px 0px;
+    cursor: pointer;
+}
+
+nav > a > label {
+    padding: 20px;
+    cursor: pointer;
+}

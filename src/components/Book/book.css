@@ -1,0 +1,15 @@
+.book {
+    background-color: red;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.book > h1 {
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.book > p {
+    padding: 0px 40px;
+    padding-bottom: 40px;
+}

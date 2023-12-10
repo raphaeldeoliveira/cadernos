@@ -1,0 +1,14 @@
+.login-page {
+    display: flex;
+    height: 100vh;
+}
+
+.banner {
+    width: 50%;
+    background-color: purple;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
